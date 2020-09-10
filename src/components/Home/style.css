@@ -1,0 +1,13 @@
+.container {
+  border: 20px solid darkgray;
+  padding: 5px;
+}
+
+.header {
+  justify-content: space-between;
+}
+
+.footer {
+  display: flex;
+  justify-content: space-between;
+}
